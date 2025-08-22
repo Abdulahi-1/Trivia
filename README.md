@@ -1,10 +1,10 @@
-# Project 4 - Trivia_IOS
+# Trivia_IOS
 
 Submitted by: Abdulahi Abdi
 
 Trivia_IOS is an iOS application that allows users to test their knowledge by answering a set of trivia questions. The app fetches questions from the Open Trivia Database API and presents them in a simple interface where users can select answers, track their progress, and view their score at the end of the game. It demonstrates networking, JSON decoding, UI updates, and data passing in iOS using Swift and Storyboard.
 
-Time spent: **7 hours** spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
